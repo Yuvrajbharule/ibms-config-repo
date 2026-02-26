@@ -19,8 +19,7 @@ eureka:
 
 jwt:
   algorithm:
-    key: hiihweifhi-hihfwihef-nihwiehfih
+    key: ibms-secret-key-ibms-secret-key
+  issuer: ibms-app
   expiry:
-    duration: 86400000
-
-  issuer: yuvraj
+    duration: 3600000

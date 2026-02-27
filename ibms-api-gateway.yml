@@ -1,0 +1,3 @@
+jwt:
+  algorithm:
+    key: ibms-super-secret-key-for-production-123456
